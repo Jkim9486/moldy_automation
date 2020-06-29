@@ -1,0 +1,112 @@
+date >> ah_debug
+echo Start : pre_therm on `hostname` >> ah_debug
+moldy < pre_therm_DiBrAzo_c_S0 > pre_therm_DiBrAzo_c_S0.out
+chmod 777 pre_therm_DiBrAzo_c_S0.out
+echo Finish : pre_therm >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : therm1 on `hostname` >> ah_debug
+moldy < therm1_DiBrAzo_c_S0 > therm1_DiBrAzo_c_S0.out
+chmod 777 therm1_DiBrAzo_c_S0.out
+echo Finish : therm1 >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : therm2 on `hostname` >> ah_debug
+moldy < therm2_DiBrAzo_c_S0 > therm2_DiBrAzo_c_S0.out
+chmod 777 therm2_DiBrAzo_c_S0.out
+echo Finish : therm2 >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : therm3 on `hostname` >> ah_debug
+moldy < therm3_DiBrAzo_c_S0 > therm3_DiBrAzo_c_S0.out
+chmod 777 therm3_DiBrAzo_c_S0.out
+echo Finish : therm3 >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : therm4 on `hostname` >> ah_debug
+moldy < therm4_DiBrAzo_c_S0 > therm4_DiBrAzo_c_S0.out
+chmod 777 therm4_DiBrAzo_c_S0.out
+echo Finish : therm4 >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 50ps on `hostname` >> ah_debug
+moldy < 50ps_DiBrAzo_c_S0 > 50ps_DiBrAzo_c_S0.out
+chmod 777 50ps_DiBrAzo_c_S0.out
+echo Finish : 50ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 100ps on `hostname` >> ah_debug
+moldy < 100ps_DiBrAzo_c_S0 > 100ps_DiBrAzo_c_S0.out
+chmod 777 100ps_DiBrAzo_c_S0.out
+echo Finish : 100ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 200ps on `hostname` >> ah_debug
+moldy < 200ps_DiBrAzo_c_S0 > 200ps_DiBrAzo_c_S0.out
+chmod 777 200ps_DiBrAzo_c_S0.out
+echo Finish : 200ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 300ps on `hostname` >> ah_debug
+moldy < 300ps_DiBrAzo_c_S0 > 300ps_DiBrAzo_c_S0.out
+chmod 777 300ps_DiBrAzo_c_S0.out
+echo Finish : 300ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 400ps on `hostname` >> ah_debug
+moldy < 400ps_DiBrAzo_c_S0 > 400ps_DiBrAzo_c_S0.out
+chmod 777 400ps_DiBrAzo_c_S0.out
+echo Finish : 400ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 500ps on `hostname` >> ah_debug
+moldy < 500ps_DiBrAzo_c_S0 > 500ps_DiBrAzo_c_S0.out
+chmod 777 500ps_DiBrAzo_c_S0.out
+echo Finish : 500ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 600ps on `hostname` >> ah_debug
+moldy < 600ps_DiBrAzo_c_S0 > 600ps_DiBrAzo_c_S0.out
+chmod 777 600ps_DiBrAzo_c_S0.out
+echo Finish : 600ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 700ps on `hostname` >> ah_debug
+moldy < 700ps_DiBrAzo_c_S0 > 700ps_DiBrAzo_c_S0.out
+chmod 777 700ps_DiBrAzo_c_S0.out
+echo Finish : 700ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 800ps on `hostname` >> ah_debug
+moldy < 800ps_DiBrAzo_c_S0 > 800ps_DiBrAzo_c_S0.out
+chmod 777 800ps_DiBrAzo_c_S0.out
+echo Finish : 800ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 900ps on `hostname` >> ah_debug
+moldy < 900ps_DiBrAzo_c_S0 > 900ps_DiBrAzo_c_S0.out
+chmod 777 900ps_DiBrAzo_c_S0.out
+echo Finish : 900ps >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug
+date >> ah_debug
+echo Start : 1ns on `hostname` >> ah_debug
+moldy < 1ns_DiBrAzo_c_S0 > 1ns_DiBrAzo_c_S0.out
+chmod 777 1ns_DiBrAzo_c_S0.out
+echo Finish : 1ns >> ah_debug
+date >> ah_debug
+echo =================================== >> ah_debug

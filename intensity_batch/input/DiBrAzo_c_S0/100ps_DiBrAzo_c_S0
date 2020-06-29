@@ -1,0 +1,39 @@
+# Input system files
+sys-spec-file=DiBrAzo_c_S0.in
+restart-file=50ps_DiBrAzo_c_S0.mds
+
+# Characteristics
+density=0.779
+temperature=300
+
+# timesteps
+const-temp=1
+nsteps=100000
+step=0.0005
+
+# when to calculate averages and print
+print-interval=100
+roll-interval=100
+average-interval=100
+begin-average=0
+
+# values
+#alpha=-1
+subcell=2.5
+strict-cutoff=1
+cutoff=11.86
+surface-dipole=0
+
+# rdf
+begin-rdf=0
+rdf-limit=20
+rdf-out=400
+nbins=800
+
+# dump files
+dump-file=100ps_DiBrAzo_c_S0.dump.%d
+dump-level=1
+dump-interval=20
+ndumps=1000
+
+save-file=100ps_DiBrAzo_c_S0.mds
